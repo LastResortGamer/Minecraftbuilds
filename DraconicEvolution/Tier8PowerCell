@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Tier8PowerCell",
+    "author": "LastResortGamer",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 18,
+      "max_y": 12,
+      "max_z": 18
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 378,
+          "item": {
+            "id": "draconicevolution:awakened_draconium_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "minecraft:cobblestone"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 786,
+          "item": {
+            "id": "draconicevolution:draconium_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "draconicevolution:energy_core"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 32,
+          "item": {
+            "id": "draconicevolution:energy_core_stabilizer"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "byg:yellow_birch_leaves"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJXaT4tcZ3bA4bK66r7nz3tLIAhZBZJdyC674G0W2YQwhCwmsxEtqUZuptU9dLfsOB8rnzC36z6CYQwz2Bj/Wq26723XPeexBVWHQx6On25fbutwOCy1f324OdTz5enu9v7ufy9P228c6nB6frl9udShfvP0+MfL08vd5TkOp/vbp8+Xw+n3t/fPl0Mcjv9x++Vy+MdPT7cfHx/uPl5+fLz/+nL3+PD95eHy9Pnn9x8fny7vt4M+3Dn5r97w25l/8+Xu4fLx6fb3L99/fPzw4f7y/PL4cPkVB/zTL3+o259u/7D9YJ/e+62vX95/uH/8+Idfceo//PLUX3/Yn72p8elu+/bDx8vhu3+OQ23ff96+cXl4+fP3+W8//Pz5+58v9/ePP73/cPf08Yf395fbHy/Pv/6Wy+3Hl7sff/Eg/+4vPsjX0bn54+Pz8XA4/t/r4XE6XP9KLY3FrzWG12ld+93hMF/75jCO2w++NTS1tHWcvE5TS1vH4nWaWto6htdpamnrCK/T1NLW5eZwvL5eQ1NLW6cux9fevL4P14amlvbRdbqcXKehqaV9cp0ui+s0NLW0F9fpMlynoamlPVynS7hOQ1NLO1ynS3o/NTS1tHXq8uZwul6noamlrVNPN6+9eX2O1w4NTS1tnTf79auejs7RoaGppa3z6Bw9nZyjQ0NTS1vnyTl6WpyjQ0NTS1vn4hw9Defo0NDU0tY5nKOncI4ODU0tbZ3hHD2lc3RoaGpp60zn6PafwX1eNDS1tHVeezy82/4Ler3+u71DQ1NLW+e12/V+fXrz2pvXub12aGhqaet8s1+/vnGeXx9v9t8/6aJDQ1NLW6euN/t5Zz0enauLDg1NLW2duh6dq8eTc3XRoaGppa1T15Nz9bg4VxcdGppa2jp1XZyrx+FcXXRoaGpp69R1OFeP4VxddGhoamnr1DWcq8d0ri46NDS1tHXqms7VUzlPh4amlrbOMre6tP3R0NTS1vnt9YfXv7fXa2pp67af4/rzaWhqaX+3v37q6c3+/UWHhqaWts43+/Wrbvs47OOwj8M+Dvs47OOwj8M+Dvs47OOwj9feHPfvH/Wkiw4NTS1tnbrq+bif/1ZvTu6jJ110aGhqaevUVc8n99GbxX30pIsODU0tbZ266nlxH70Z7qMnXXRoaGpp69RVz8N99CbcR0+66NDQ1NLWqauew3102+9hv4f9HvZ72O9hv4f9HvZ72O9hv4f9HvZ72O9hv4f9HvZ72O9hv4f9HvZ72O/9eg1NLe22fzqm/dbU0tbtH8GB4EBwIDgQHAgOBAeCA8GB4EBwIDgQHAgOBAeCA8GB4EBwIDgQHAgOBAeCA8GB4EBwIDgQHAgOBAeCA8GB4EBwIDgQHAgOBAeCA8GB4EBwIDgQ1z+4ndzv5H560kWHhqaWtk5d9ez8t6f9fu900z74EHwIPgQfgg/Bh+BD8CH4EHwIPgQfgg/7fXUbrOBF8CJ4EbwIXgQvghfBi+BF8CJ4EbwIXuz3/Xa/cD896aJDQ1NLW6eueg73082N4EZwI7gR3AhuBDeCG8GN4EZwI7gR3AhuBDeCG8GN4EZwI7gR3AhuBDeCG8GN4EZwI7gR3AhuBDeCG8GN5EZyI7mR3EhuJDeSG8mN5EZyI7mR3EhuJDeSG8mN5EZyI7mR3EhuJDeSG8mN5EZyI7mR3EhuJDeSG8mN5EZyI7mR3EhuJDeSG8mN5EZyI7mR3EhuJDeSG8mN5EZyI7mR3EhuJDeSG8mN5EZyI7mRvEheJC+SF8mL5EVef0i/Lm2duup5cb/Fv99wv+F+etJFh4amlrZOXfXs/LfDv9+3+4X76UkXHRqaWto6ddVzuJ9uTiQnkhPJieREciI5kZxITiQnkhPJieREciI5kZxITiQnkhPJieREciI5kZxITiQnkhPJieREciI5kZxIThQnihPFieJEcaI4UZwoThQnihPFieJEcaI4UZwoThQnihPFieJEcaI4UZwoThQnihPFieJEcaI4UZwoThQnihPFieJEcaI4UZwoThQnihPFieJEcaI4UZwoThQnihPFieJEcaI4UZwoThQnihPFifL/F8WL4kXxonhRvChe7PfV0tapq56d/3ZxX90Gq7hR3ChuFDeKG8WN4kZxo7hR3ChuFDeKG8WN4kZxo7hR3ChuFDeKG8WN4kZxo7hR3ChuFDeKG8WN4kZxo7hR3ChuFDeKG8WN4kZxo7hR3ChuFDeKG8WN4kZxo7hR3ChuFDeKG8WN4kZxo7hR3ChuFDeaG82N5kZzo7nR3GhuNDeaG82N5kZzo7nR3GhuNDeaG82N5kZzo7nR3GhuNDeaG82N5kZzo7nR3GhuNDeaG82N5kZzo7nR3GhuNDeaG82N5kZzo3nRvGheNC+aF82L5kXzonnRvGheNC+aF82H5kPzofnQfGg+NB+aD82H5kPzofnQfGgeNA+aB82D5kHzoHnQPGgeNA+aB82D5kFzoDnQHGgONAeaA82B5kBzoDnQHGgONAeaA82B5kBzoDnQHGgONAeaA82B5kBzoDnQHGgONAeaA82B5kBzoDnQHGgONAeaA82B5kBzoDnQHGgONAe+7fe8vl5DU0tbp277Pe33tN/Tfk/7Pe33tN/Tfk/7Pe33tN/Tfk/7Pe33tN/Tfk/7Pe33tN/Tfu/nHp2riw4NTS1tnboenavbHk97PO3xtMfTHk97PO3xtMfTHk97vJ+r295Oezvt7bS3095Oezvt7bS3095Oe7ufq9ueTns67em0p9OeTns67em0p9OeTnu6n6vbXk57Oe3ltJfTXk57Oe3ltJfTXk57uZ+r2z5O+zjt47SP0z5O+zjt47SP0z5O+zjt47SP0z5O+zjt47SP0z5O+zjt47SP0z7u+6KhqaWtU7c9Wa/XaWhqaevUbS9We7Hai9VerPZitRervVjtxfX6Vbc9WO3Bag9We7Dag9UerPZgtQf7ObrN/WruV3O/mvvV3K/mfjX3q7nfz9Ftzldzvprz1Zyv5nw156s5X835fo5uc72a69Vcr+Z6NderuV7N9Wqu93N0m+PVHK/meDXHqzlezfFqjldzvJ+j29yu5nY1t6u5Xc3tam5Xc7ua2/0c3eZ0nxcNTS1tnbrNyfl6nYamlrZO3ebibC7O5uJsLs7m4mwu9ut0m4OzOTibg7M5OJuDsznYr9PtuZ8997Pnfvbcz5772XPfr9PtOZ8957PnfPacz57z2XPer9PtuZ4917PnevZcz57r2XPdr9PtOe7vp4amlrbOb68/Ht5eX6+ppa3b+7a/TlNLW7f3aX+dppa2bu/L/jpNLW3d3of9dZpa2td+9/o5gnc+T/XO56ne+TzVO5+neufzVO98nuqdz1O983mqd3VYfrjcfro8vX646+vLD49Ph7f/fvv88p+X58enl3+7/XJ52l7y4fHrw6fn7f/4vtw9/PfrpfuXv/325e3//O71z4n7l68vmPuXv/323buH3+0f6TocH14/MXb+r7vL07/85vGny9O/Xu7vtz/i/MkH0OL6Ka+///D17v7T3cPnz7efPl9enr//9PXLl5/f/8nn1P4ffanVwZUoAAA\u003d"
+}
