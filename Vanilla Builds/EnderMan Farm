@@ -1,0 +1,113 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "Enderman Farm",
+    "author": "LastResortGamer",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 30,
+      "max_y": 52,
+      "max_z": 30
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:iron_bars"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "minecraft:oak_planks"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "minecraft:spruce_trapdoor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1402,
+          "item": {
+            "id": "minecraft:stone"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 113,
+          "item": {
+            "id": "minecraft:white_carpet"
+          }
+        }
+      ]
+    }
+  },
+  "body": "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dzpr3Hc6a9x3Omvcdzpr3Hc6a9x3Omvcdzpr3PfYqc4001wLnWupC11qpSuttRk77ru16/Q6dNCga93oVne614Me9aRnveh17HzS/n3aR/sPXuf4PzHHnY9txo477+y8s/Px8V4HDRp3np5HG+110DB23Hln552dd3be2Xln5+n5tPf5QcP746XHNe48nTXuPJ017jydNe48nTXuPJ017jydNe48nTXuPJ017jydNe48nTXuPJ017jydNe48nTXuPJ017jydNe48nTXuPJ017nzsVGeaaa6FzrXUhS610pXW2owddx5bvt3HO3tPr0cHDbrWjW51p3s96FFPetaLXt9f3zjZcd9jG73TVjvtddCgcd/pebTRO221014HDWPH3fd239t9b/e93fd2n76P3mmrnfauHzS8f13p67TVTnuN75N0nbbaaa/x/ZOu01Y77TW+r9J12mqnvcb3W7pOW+201/g+TNdpq532Gt+f6TpttdNe4/s2XaetdtprfD+n67TVTnuN7/N0nbbaaa/x/Z+u01Y77TXeF9J12mqnvcb7RbpOW+2013gfSddpq532Gu8v6TpttdNe430nXaetdtprvB+l67TVTnuN96l0nbbaaa/x/jV2qjPNNNdC51rqQpda6UprbfROW+2010GDrnWjW93pXg961JOe9aLX99c33orG+9fYRu+01U57HTRovH+l59FG77TVTnsdNIwd71+D+9fg94eD3x8Ofn84+P3h4PeHg/vc4D43uM8N7nOD3x8Ofn84+P3h4PeHg98fDu5zg/vcYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdhFsItgF8Eugl0Euwh2Eewi2EWwi2AXwS6CXQS7CHYR7CLYRbCLYBfBLoJdBLsIdhHsIthFsItgF8Eugl0Euwh2Eewi2EWwi2AXwS6CXQS7CHYR7CLYRbCLYBfBLoJdBLsIdhHsIthFsItgF8Eugl0Euwh2Eewi2EWwi2AXwS6CXQS7CHYR7CLYRbCLYBfv7jX3mnvNveZec6+519xr7jX3mnvNveZec6+519xr7jX3mnvNveZec6+519xr7jX3mnvNveZec6+519wb7g33hnvDveHecG+4N9wb7g33hnvDveHecG+4N9wb7g33hnvDveHecG+4N9wb7g33hnvDveHecG+4t9xb7i33lnvLveXecm+5t9xb7i33lnvLveXecm+5t9xb7i33lnvLveXecm+5t9xb7i33lnvLveXecu+4d9w77h33jnvHvePece+4d9w77h33jnvHvePece+4d9w77h33jnvHvePece+4d9w77h33jnvHvePec++599x77j33nnvPvefec++599x77j33nnvPvefec++599x77j33nnvPvefec++599x77j33nnvPfeA+cB+4D9wH7gP3gfvAfeA+cB+4D9wH7gP3gfvAfeA+cB+4D9wH7gP3gfvAfeA+cB+4D9wH7gP3gfvIfeQ+ch+5j9xH7iP3kfvIfeQ+ch+5j9xH7iP3kfvIfeQ+ch+5j9xH7iP3kfvIfeQ+ch+5j9xH7iP3ifvEfeI+cZ+4T9wn7hP3ifvEfeI+cZ+4T9wn7hP3ifvEfeI+cZ+4T9wn7hP3ifvEfeI+cZ+4T9wn7jP3mfvMfeY+c5+5z9xn7jP3mfvMfeY+c5+5z9xn7jP3mfvMfeY+c5+5z9xn7jP3mfvMfeY+c5+5z9wX7gv3hfvCfeG+cF+4L9wX7gv3hfvCfeG+cF+4L9wX7gv3hfvCfeG+cF+4L9wX7gv3hfvCfeG+cKeO/4z+K/+V/8p/5b/yX/mv/Ff+K/+V/8p/5b/yX/mv/Ff+K/+V/8p/5b/yX/mv/Ff+K/+V/8p/5b/yX/mv1WT+w/3tw/3zYjK/fX394el50v7L7eX13+9fnp5f//n2+f45XvLt09fHDy/ZJP/88Pgf449k/PD37x/e/vMPb8+XPny74Lfpw9+/f/bh8Q/jT3gxyR/f/hZC84+P8Xt+vj3++p9uz58ny5//lYi3/+/edPLrb78+fPrw8Pjx4+3Dx/vXl999+Pr5839987O/OfG/BMWf9Zw0AAA\u003d"
+}{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "Enderman Farm",
+    "author": "LastResortGamer",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 30,
+      "max_y": 52,
+      "max_z": 30
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:iron_bars"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "minecraft:oak_planks"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "minecraft:spruce_trapdoor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1402,
+          "item": {
+            "id": "minecraft:stone"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 113,
+          "item": {
+            "id": "minecraft:white_carpet"
+          }
+        }
+      ]
+    }
+  },
+  "body": "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dzpr3Hc6a9x3Omvcdzpr3Hc6a9x3Omvcdzpr3PfYqc4001wLnWupC11qpSuttRk77ru16/Q6dNCga93oVne614Me9aRnveh17HzS/n3aR/sPXuf4PzHHnY9txo477+y8s/Px8V4HDRp3np5HG+110DB23Hln552dd3be2Xln5+n5tPf5QcP746XHNe48nTXuPJ017jydNe48nTXuPJ017jydNe48nTXuPJ017jydNe48nTXuPJ017jydNe48nTXuPJ017jydNe48nTXuPJ017nzsVGeaaa6FzrXUhS610pXW2owddx5bvt3HO3tPr0cHDbrWjW51p3s96FFPetaLXt9f3zjZcd9jG73TVjvtddCgcd/pebTRO221014HDWPH3fd239t9b/e93fd2n76P3mmrnfauHzS8f13p67TVTnuN75N0nbbaaa/x/ZOu01Y77TW+r9J12mqnvcb3W7pOW+201/g+TNdpq532Gt+f6TpttdNe4/s2XaetdtprfD+n67TVTnuN7/N0nbbaaa/x/Z+u01Y77TXeF9J12mqnvcb7RbpOW+2013gfSddpq532Gu8v6TpttdNe430nXaetdtprvB+l67TVTnuN96l0nbbaaa/x/jV2qjPNNNdC51rqQpda6UprbfROW+2010GDrnWjW93pXg961JOe9aLX99c33orG+9fYRu+01U57HTRovH+l59FG77TVTnsdNIwd71+D+9fg94eD3x8Ofn84+P3h4PeHg/vc4D43uM8N7nOD3x8Ofn84+P3h4PeHg98fDu5zg/vcYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdjFYBeDXQx2MdhFsItgF8Eugl0Euwh2Eewi2EWwi2AXwS6CXQS7CHYR7CLYRbCLYBfBLoJdBLsIdhHsIthFsItgF8Eugl0Euwh2Eewi2EWwi2AXwS6CXQS7CHYR7CLYRbCLYBfBLoJdBLsIdhHsIthFsItgF8Eugl0Euwh2Eewi2EWwi2AXwS6CXQS7CHYR7CLYRbCLYBfv7jX3mnvNveZec6+519xr7jX3mnvNveZec6+519xr7jX3mnvNveZec6+519xr7jX3mnvNveZec6+519wb7g33hnvDveHecG+4N9wb7g33hnvDveHecG+4N9wb7g33hnvDveHecG+4N9wb7g33hnvDveHecG+4t9xb7i33lnvLveXecm+5t9xb7i33lnvLveXecm+5t9xb7i33lnvLveXecm+5t9xb7i33lnvLveXecu+4d9w77h33jnvHvePece+4d9w77h33jnvHvePece+4d9w77h33jnvHvePece+4d9w77h33jnvHvePec++599x77j33nnvPvefec++599x77j33nnvPvefec++599x77j33nnvPvefec++599x77j33nnvPfeA+cB+4D9wH7gP3gfvAfeA+cB+4D9wH7gP3gfvAfeA+cB+4D9wH7gP3gfvAfeA+cB+4D9wH7gP3gfvIfeQ+ch+5j9xH7iP3kfvIfeQ+ch+5j9xH7iP3kfvIfeQ+ch+5j9xH7iP3kfvIfeQ+ch+5j9xH7iP3ifvEfeI+cZ+4T9wn7hP3ifvEfeI+cZ+4T9wn7hP3ifvEfeI+cZ+4T9wn7hP3ifvEfeI+cZ+4T9wn7jP3mfvMfeY+c5+5z9xn7jP3mfvMfeY+c5+5z9xn7jP3mfvMfeY+c5+5z9xn7jP3mfvMfeY+c5+5z9wX7gv3hfvCfeG+cF+4L9wX7gv3hfvCfeG+cF+4L9wX7gv3hfvCfeG+cF+4L9wX7gv3hfvCfeG+cKeO/4z+K/+V/8p/5b/yX/mv/Ff+K/+V/8p/5b/yX/mv/Ff+K/+V/8p/5b/yX/mv/Ff+K/+V/8p/5b/yX/mv1WT+w/3tw/3zYjK/fX394el50v7L7eX13+9fnp5f//n2+f45XvLt09fHDy/ZJP/88Pgf449k/PD37x/e/vMPb8+XPny74Lfpw9+/f/bh8Q/jT3gxyR/f/hZC84+P8Xt+vj3++p9uz58ny5//lYi3/+/edPLrb78+fPrw8Pjx4+3Dx/vXl999+Pr5839987O/OfG/BMWf9Zw0AAA\u003d"
+}
